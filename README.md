@@ -3,13 +3,14 @@
 # Predicting Mortality From Community Characteristics
 # January 2019
 
-1. [Project Final Report](https://github.com/gdaniels-datascience/Springboard-Capstone-Project/blob/master/Capstone%20Final%20Report.pdf)
+1. [Project Final Report](./US_Opioid_Epidemic_Glynis_Daniels_2019.pdf)
 2. Python Notebooks
-	1. [Introduction: The US Opioid Epidemic](./US%20Opioid%20Epidemic.ipynb)
-	2. [Census Data Processing](./Census%20Data%20Processing.ipynb)
-	3. [Exploratory Analysis](./Notebooks/Opioid%20Epidemic%20Exploratory%20Analysis.ipynb)
-	4. [In-depth Analysis](./Notebooks/Opioid%20In%20Depth%20Analysis.ipynb)
-3. [Data Files](https://github.com/gdaniels-datascience/Springboard-Capstone-Project/tree/master/Data)
+	1. [Introduction: The US Opioid Epidemic](./1%20Introduction%20-%20US%20Opioid%20Epidemic.ipynb)
+	2. [Census Data Processing](./2%20Census%20Data%20Processing.ipynb)
+	3. [Merge and Clean Data](./3%20Merge%20and%20Clean%20Data.ipynb)
+	4. [Exploratory Analysis](./4%20Exploratory%20Analysis.ipynb)
+	5. [Data Modeling](./5%20Data%20Modeling.ipynb)
+3. [Data Files](./Data)
 
 
 ## Executive Summary
